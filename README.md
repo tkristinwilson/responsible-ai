@@ -2,6 +2,9 @@
 
 A very short list of responsible AI tools - a working list.
 
+## Process
+- [Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)
+
 ## Documentation
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 - [Data Statements for NLP](https://www.aclweb.org/anthology/Q18-1041/)
